@@ -5,7 +5,8 @@ Hyper Casual Game Development
 
 ![image](https://user-images.githubusercontent.com/52004589/139611609-ede14674-9bc4-4258-9817-0a89fffc68af.png)
 
-![image](https://user-images.githubusercontent.com/52004589/139611617-a13f5964-804e-4cd0-8e46-6fc29e60cdfa.png)
+![image](https://user-images.githubusercontent.com/52004589/139611779-4af2f1de-6792-4067-98a7-d3b224b3c198.png)
+
 
 ![image](https://user-images.githubusercontent.com/52004589/139611639-b90fb0da-28e6-4df7-9ff2-1f221a481441.png)
 
